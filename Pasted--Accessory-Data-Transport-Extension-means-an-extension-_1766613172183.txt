@@ -1,0 +1,375 @@
+“Accessory Data Transport Extension” means an extension bundled as part of Your Application that, as its sole purpose, securely shares information directly between an end user’s Apple-branded device and an Authorized Wi-Fi Target Accessory. 
+
+“Ad Network APIs” means the Documented APIs that provide a way to validate the successful conversion of advertising campaigns on supported Apple-branded products using a combination of cryptographic signatures and a registration process with Apple.
+
+“Ad Support APIs” means the Documented APIs that provide the Advertising Identifier and Tracking Preference.
+
+“Adapter” means a model adapter that fine-tunes the model accessed by the Foundation Models framework for a purpose permitted by the Foundation Models Framework Acceptable Use Requirements.
+
+“Advertising Identifier” means a unique, non-personal, non-permanent identifier provided through the Ad Support APIs that are associated with a particular Apple-branded device and are to be used solely for advertising purposes, unless otherwise expressly approved by Apple in writing.
+
+“Agreement” means this Apple Developer Program License Agreement, including any attachments, Schedule 1 and any exhibits thereto which are hereby incorporated by this reference.  For clarity, this Agreement supersedes the iOS Developer Program License Agreement (including any attachments, Schedule 1 and any exhibits thereto), the Safari Extensions Digital Signing Agreement, the Safari Extensions Gallery Submission Agreement, and the Mac Developer Program License Agreement.
+
+“App Intents” means the Documented APIs that allow Your Application to access app intent domains and other related functionality, and to expose app intents, app shortcuts, app entities, donations, and other related implementations.
+
+“App Store” means an electronic store and its storefronts branded, owned, and/or controlled by Apple, or an Apple Subsidiary or other affiliate of Apple, through which Licensed Applications may be acquired.  An App Store exists for each of the following: iOS, iPadOS, macOS, tvOS, visionOS, and watchOS.
+
+“App Store Connect” means Apple’s proprietary online content management tool for Applications.
+
+“Apple” means Apple Inc., a California corporation with its principal place of business at One Apple Park Way, Cupertino, California 95014, U.S.A.
+
+“Apple Certificates” or “Certificates” means the Apple-issued digital certificates provided to You by Apple under the Program. 
+
+“Apple Maps Server API” means the Documented APIs that enable You to add server-to-server mapping features or functionality to Your Applications, websites, or web applications.
+
+“Apple Maps Service” means the mapping platform and Map Data provided by Apple via MapKit API and/or Apple Maps Server API; the Map Data provided by Apple that is used or displayed in the mapping platform; and/or the mapping platform and Map Data provided by Apple via MapKit JS, and related tools for capturing map content (e.g., MapSnapshotter).  Apple Maps Service is for use by You only in connection with Your Applications, websites, or web applications.
+
+“Apple Music Feed API” means the data feed that contains metadata for albums, songs, and artists from Apple Music.  
+
+“Apple Music Feed Content” means the previews of album art, songs and music videos provided by Apple and rendered through the Apple Music Feed API.
+
+“Apple Pay APIs” means the Documented APIs that enable end users to send payment information they have stored on a supported Apple-branded product to an Application or Corresponding Product to be used in payment transactions made by or through the Application or Corresponding Product, and includes other payment-related functionality as described in the Documentation.
+
+“Apple Pay Payload” means a customer data package passed through the Apple Software and Apple Pay APIs as part of a payment transaction (e.g., name, email, billing address, shipping address, and device account number).
+
+“Apple Push Notification Service” or “APN” means the Apple Push Notification service that Apple may provide to You to enable You to transmit Push Notifications to Your Application or via the MDM Protocol or for use as otherwise permitted herein.
+
+“APN API” means the Documented API that enables You to use the APN to deliver a Push Notification to Your Application or for use as otherwise permitted herein.
+
+“Apple Services” or “Services” means the developer services that Apple may provide or make available through the Apple Software or as part of the Program for use with Your Covered Products, Corresponding Products, or development, including any Updates thereto (if any) that may be provided to You by Apple under the Program.
+
+“Apple Software” means Apple SDKs, iOS, watchOS, tvOS, iPadOS, visionOS, and/or macOS, the Provisioning Profiles, FPS SDK, FPS Deployment Package, and any other software that Apple provides to You under the Program, including any Updates thereto (if any) that may be provided to You by Apple under the Program.
+
+“Apple SDKs” means the Apple-proprietary Software Development Kits (SDKs) provided hereunder, including but not limited to header files, APIs, libraries, simulators, and software (source code and object code) labeled as part of iOS, watchOS, tvOS, iPadOS, visionOS, or Mac SDK and included in the Xcode Developer Tools package and Swift Playgrounds for purposes of targeting Apple-branded products running iOS, watchOS, tvOS, iPadOS, visionOS, and/or macOS, respectively.
+
+“Apple Subsidiary” means a corporation at least fifty percent (50%) of whose outstanding shares or securities (representing the right to vote for the election of directors or other managing authority) are owned or controlled, directly or indirectly, by Apple, and that is involved in the operation of or otherwise affiliated with the App Store, Custom App Distribution, TestFlight, and as otherwise referenced herein (e.g., Attachment 4).
+
+“Apple Weather Data” means any content, data or information provided through the WeatherKit APIs, including, but not limited to, Weather Alerts, general forecasts and other weather data.
+
+“Applicable European Laws” means, as they may apply to either party, any EU laws or laws of any EU member state, in each case, as amended, extended or re-enacted, including all implementing acts made from time to time, as they relate, or are claimed to relate, to the European Relationship. This includes, without limitation, regulations as well as treaties.
+
+“Application” means one or more software programs (including extensions, media, and Libraries that are enclosed in a single software bundle) developed by You in compliance with the Documentation and the Program Requirements, for distribution under Your own trademark or brand, and for specific use with an Apple-branded product running iOS, iPadOS, macOS, tvOS, visionOS, or watchOS as applicable, including bug fixes, updates, upgrades, modifications, enhancements, supplements to, revisions, new releases and new versions of such software programs.
+
+“Authorized Developers” means Your employees and contractors, members of Your organization or, if You are an educational institution, Your faculty, staff, and Authorized Student Developers, who (a) each have an active and valid Apple Developer account with Apple, (b) have a demonstrable need to know or use the Apple Software in order to develop and test Covered Products or Corresponding Products, and (c) to the extent such individuals will have access to Apple Confidential Information, each have written and binding agreements with You to protect the unauthorized use and disclosure of such Apple Confidential Information.
+
+“Authorized Student Developers” means Your students, if You are a university, who also meet the requirements to be Authorized Developers.
+
+“Authorized Test Units” means Apple-branded hardware units owned or controlled by You that have been designated by You for Your own testing and development purposes under this Program, and if You permit, Apple-branded hardware units owned or controlled by Your Authorized Developers so long as such units are used for testing and development purposes on Your behalf, or, if You are a university, Apple-branded hardware units owned or controlled by You and Your Authorized Student Developers that are designated by You for educational purposes, and only as permitted hereunder.
+
+“Authorized Wi-Fi Target Accessory” means a Wi-Fi capable accessory that an end user has explicitly authorized Your Application on their Apple-branded device to securely pair and share the Wi-Fi Network Sharing Information with.
+
+“Background Assets Framework” means the Documented APIs that provide Applications with the ability to perform download operations in the background before first launch of the Application by the user and at other times after the first launch.
+
+“Beta Testers” means end users whom You have invited to sign up for TestFlight in order to test pre-release versions of Your Application and who have accepted the terms and conditions of the TestFlight Application.
+
+“ClassKit APIs” means the Documented APIs that enable You to send student progress data for use in a school-managed environment.
+
+“CloudKit APIs” means the Documented APIs that enable Your Applications, Web Software, and/or Your end users (if You permit them) to read, write, query and/or retrieve structured data from public and/or private containers in iCloud.
+
+“Configuration Profile(s)” means an XML file that allows You to distribute configuration information (e.g., VPN or Wi-Fi settings) and restrictions on device features (e.g., disabling the camera) to compatible Apple-branded products through Apple Configurator or other similar Apple-branded software tools, email, a webpage, or over-the-air deployment, or via Mobile Device Management (MDM).
+
+“Corresponding Product” means Your website, web application, or other version of Your software application.
+
+“Covered Products” means Your Applications, Libraries, Passes, Safari Extensions, Safari Push Notifications, and/or FPS implementations developed under this Agreement.
+
+“Critical Messaging API” means the Documented API that enables Your Application to send messages via SMS for critical situations.
+
+“Custom App Distribution” means the store or storefront functionality that enables users to obtain Licensed Applications through the use of Apple Business Manager, Apple School Manager, or as otherwise permitted by Apple.
+
+“Declared Age Range API” means the Documented API that enables Your Application to receive age range information for an end user derived from their Apple Account, if the end user or the end user's parent or guardian enables Your Application to receive the data, or where required by law. 
+
+“Default Dialer APIs” means the Documented APIs that enable an Application to make carrier-based outgoing calls when it is set as the default dialing app, and access conversation history of carrier-based calls made in that Application.
+
+“DeviceCheck APIs” means the set of APIs, including server-side APIs, that enable You to set and query two bits of data associated with a device and the date on which such bits were last updated.
+
+“DeviceCheck Data” means the data stored and returned through the DeviceCheck APIs.
+
+“Documentation” means any technical or other specifications or documentation that Apple may provide to You for use in connection with the Apple Software, Apple Services, Apple Certificates, or otherwise as part of the Program.
+
+“Documented API(s)” means the Application Programming Interface(s) documented by Apple in published Apple Documentation and which are contained in the Apple Software.
+
+“EnergyKit” means the Documented APIs that provide an Application with the ability to receive electricity guidance and insights.
+
+“European Relationship” means the relationship of Apple and/or Apple Distribution International Ltd. with You, whether arising out of this Agreement, the Apple Software, Apple hardware or otherwise, in relation to (i) any Application, Licensed Application and/or Custom Application insofar as delivered to, or intended for delivery to, end users through the App Store in an EU country or region; and/or (ii) any Application, Licensed Application and/or Custom Application, other software (including but not limited to Covered Products and/or Corresponding Products) and/or non-Apple hardware, insofar as used, or intended for use, on iOS or with iOS devices by end users located in the EU.
+
+“European Relationship Claims” means any claims or proceedings of any kind to the extent (and only to the extent) they relate to the European Relationship including without limitation contractual claims, claims under Applicable European Laws, claims for interim relief, and any non-contractual claims.
+
+“Face Data” means information related to human faces (e.g., face mesh data, facial map data, face modeling data, facial coordinates or facial landmark data, including data from an uploaded photo) that is obtained from a user’s device and/or through the use of the Apple Software (e.g., through ARKit, the Camera APIs, or the Photo APIs), or that is provided by a user in or through an Application (e.g., uploads for a facial analysis service).
+
+“FOSS” (Free and Open Source Software) means any software that is subject to terms that, as a condition of use, copying, modification or redistribution, require such software and/or derivative works thereof to be disclosed or distributed in source code form, to be licensed for the purpose of making derivative works, or to be redistributed free of charge, including without limitation software distributed under the GNU General Public License or GNU Lesser/Library GPL.
+
+“Foundation Models Framework Acceptable Use Requirements” means the requirements found at https://developer.apple.com/apple-intelligence/acceptable-use-requirements-for-the-foundation-models-framework, as may be updated from time-to-time.
+
+“Foundation Models Framework” means the Documented APIs that enable You to access, prompt, or otherwise use the Foundation Models framework, including the model accessed by the framework, in any manner, including through an Adapter.
+
+“FPS” or “FairPlay Streaming” means Apple’s FairPlay Streaming Server key delivery mechanism as described in the FPS SDK.
+
+“FPS Deployment Package” means the D Function specification for commercial deployment of FPS, the D Function reference implementation, FPS sample code, and set of unique production keys specifically for use by You with an FPS implementation, if provided by Apple to You.
+
+“FPS SDK” means the FPS specification, FPS server reference implementation, FPS sample code, and FPS development keys, as provided by Apple to You.
+
+“Game Center” means the gaming community service and related APIs provided by Apple for use by You in connection with Your Applications that are associated with Your developer account.
+
+“HealthKit APIs” means the Documented APIs that enable reading, writing, queries and/or retrieval of an end user’s health and/or fitness information in Apple’s Health application.
+
+“HomeKit Accessory Protocol” means the proprietary protocol licensed by Apple under the MFi Program that enables home accessories designed to work with the HomeKit APIs (e.g., lights, locks) to communicate with compatible Apple-branded products.
+
+“HomeKit APIs” means the Documented APIs that enable reading, writing, queries and/or retrieval of an end user’s home configuration or home automation information from that end-user’s designated area of Apple’s HomeKit Database.
+
+“HomeKit Database” means Apple’s repository for storing and managing information about an end user’s Licensed HomeKit Accessories and associated information.
+
+“iCloud” or “iCloud service” means the iCloud online service provided by Apple that includes remote online storage.
+
+“iCloud Extended Share Access APIs” means the Documented APIs that provide an Application with the ability to access end user information, share access requests and one-time links.
+
+“iCloud Storage APIs” means the Documented APIs that allow storage and/or retrieval of user-generated documents and other files, and allow storage and/or retrieval of key value data (e.g., a list of stocks in a finance App, settings for an App) for Applications and Web Software through the use of iCloud.
+
+“ID Verifier APIs” means the Documented APIs that enable You and/or Merchants to verify the end user’s age or ID information through the use of Your Application.
+
+“ID Verifier Data” means the end users’ data package passed through the Apple Software and ID Verifier APIs as part of the age or ID verification process.
+
+“In-App Purchase API” means the Documented API that enables additional content, functionality or services to be delivered or made available for use within an Application with or without an additional fee.
+
+“Intermediary Party” means a party that: (a) passes an Apple Pay end user’s Apple Pay Payload to a Merchant for processing such end user’s payment transaction outside of an Application or Corresponding Product, or (b) develops and makes available an Application to enable Merchants to conduct Tap to Pay transactions.
+
+“iOS” means the iOS operating system software provided by Apple for use by You only in connection with Your Application development and testing, including any successor versions thereof.
+
+“IP Rights” means any copyrights, trademarks, rights of privacy and publicity, trade secrets, patents, or other intellectual property or legal rights (e.g. musical composition or performance rights, video rights, photography or image rights, logo rights, third-party data rights, etc.) of a similar or corresponding nature in any part of the world, whether registered or not, or capable of registration or not, and including all applications and the right to apply for any of the foregoing.
+
+“iPadOS” means the iPadOS operating system software provided by Apple for use by You only in connection with Your Application development and testing, including any successor versions thereof.
+
+“iPod Accessory Protocol” or “iAP” means Apple’s proprietary protocol for communicating with supported Apple-branded products and which is licensed under the MFi Program.
+
+“iWork API” means the Documented API known as the “iWork Document Exporting API” that enables end users to export iWork documents to PDF format on Your Application or Corresponding Product.
+
+“Journaling Suggestions API” means the Documented API that enables a display of journaling suggestions. 
+
+“Library” means a code module that cannot be installed or executed separately from an Application and that is developed by You in compliance with the Documentation and Program Requirements only for use with Apple-branded products. 
+
+“Licensed Application” means an Application that (a) meets and complies with all of the Documentation and Program Requirements, and (b) has been selected and digitally signed by Apple for distribution, and includes any additional permitted functionality, content or services provided by You from within an Application using the In-App Purchase API.
+
+“Licensed Application Information” means screenshots, images, artwork, previews, icons and/or any other text, descriptions, representations or information relating to a Licensed Application that You provide to Apple for use in accordance with Schedule 1, or, if applicable, Schedule 2 or Schedule 3.
+
+“Licensed HomeKit Accessories” means hardware accessories licensed under the MFi Program that support the HomeKit Accessory Protocol.
+
+“Local Notification” means a message, including any content or data therein, that Your Application delivers to end users at a pre-determined time or when Your Application is running in the background and another application is running in the foreground.
+
+“Location Push Service Extension” means the software extension that provides Applications a way to achieve on-demand location updates through push notifications for use with the Core Location API in compliance with this Agreement.
+
+“macOS” means the macOS operating system software provided by Apple for use by You, including any successor versions thereof.
+
+“Managed Apple Account” means the Apple Account created by an organization for an employee or student to use and managed by the organization’s IT administrator.
+
+“Map Data” means any content, data or information provided through the Apple Maps Service including, but not limited to, imagery, terrain data, latitude and longitude coordinates, transit data, points of interest and traffic data.
+
+“MapKit API” means the Documented client-side API that enables You to add mapping features or functionality to Applications.
+
+“MapKit JS” means the JavaScript library that enables You to add mapping features or functionality to Your Applications, websites, or web applications.
+
+“MDM Compatible Products” means enterprise server software products that enable management of supported Apple-branded products using the MDM Protocol (which Apple may provide to You at its option), and whose primary purpose is enterprise device management.  For clarity, products that are for consumer or personal use are excluded from MDM Compatible Products, except as otherwise expressly permitted in writing by Apple.
+
+“MDM Customer” means a commercial enterprise, such as a business organization, educational institution, or government agency, that is a customer of Your MDM Compatible Products. For clarity, MDM Customer specifically excludes consumers or personal users, except as otherwise expressly permitted in writing by Apple.
+
+“MDM Protocol” means the proprietary protocol documentation that Apple, at its option, may provide to You under this Agreement to enable You to interact with, manage, configure and query supported Apple-branded products as expressly permitted herein.
+
+“Merchant” means a party who: (a) processes Apple Pay payment transactions, (b) uses the TTP APIs to accept payments, conduct transactions and access related services via Your Application, under their own name, trademark, or brand (e.g., their name shows up on the end user’s credit card statement), or (c) uses the ID Verifier APIs to perform age or ID verification via Your Application. 
+
+“MFi Accessory” means a non-Apple branded hardware device that interfaces, communicates, or otherwise interoperates with or controls an Apple-branded product using technology licensed under the MFi Program (e.g., the ability to control a supported Apple-branded product through the iPod Accessory Protocol).
+
+“MFi Licensee” means a party who has been granted a license by Apple under the MFi Program.
+
+“MFi Program” means a separate Apple program that offers developers, among other things, a license to incorporate or use certain Apple technology in or with hardware accessories or devices for purposes of interfacing, communicating or otherwise interoperating with or controlling select Apple-branded products. 
+
+“Mobile Device Management” (MDM) means the device management functionality and related APIs provided by Apple that enable remote management and configuration of supported Apple-branded products through the use of the MDM Protocol and Apple-issued digital certificates.
+
+“Motion & Fitness APIs” means the Documented APIs that are controlled by the Motion & Fitness privacy setting in a compatible Apple-branded product and that enable access to motion and fitness sensor data (e.g., body motion, step count, stairs climbed), unless the end user has disabled access to such data.
+
+“Multitasking” means the ability of Applications to run in the background while other Applications are also running.
+
+“MusicKit APIs” means the set of APIs that enable Apple Music users to access their subscription through Your Application or as otherwise permitted by Apple in the Documentation.
+
+“MusicKit Content” means music, video, and/or graphical content rendered through the MusicKit APIs.
+
+“MusicKit JS” means the JavaScript library that enables Apple Music users to access their subscription through Your Applications, websites, or web applications.
+
+“Network Extension Framework” means the Documented APIs that provide Applications with the ability to customize certain networking features of compatible Apple-branded products (e.g., customizing the authentication process for Wi-Fi Hotspots, VPN features, and content filtering mechanisms).
+
+“Now Playing APIs” means the Documented APIs that enable information and metadata about media currently playing in Applications to be displayed on Apple-branded products.
+
+“Pass(es)” means one or more digital passes (e.g., movie tickets, coupons, loyalty reward vouchers, boarding passes, membership cards, etc.) developed by You under this Agreement, under Your own trademark or brand, and which are signed with Your Pass Type ID, or otherwise developed by You in accordance with the Documentation.
+
+“Pass Information” means the text, descriptions, representations or information relating to a Pass that You provide to or receive from Your end users on or in connection with a Pass.
+
+“Pass Type ID” means the combination of an Apple Certificate and Push Application ID that is used by You to sign Your Passes and/or communicate with the APN.
+
+“Payment Service Provider” means a provider that: (a) provides payment processing services involving the processing of TTP Data for Merchants, whether directly or indirectly, and (b) is set forth in the Documentation.
+
+“Program” means the overall Apple development, testing, digital signing, and distribution program contemplated in this Agreement.
+
+“Program Requirements” mean the technical, human interface, design, product category, security, performance, and other criteria and requirements specified by Apple, including but not limited to the current set of requirements set forth in Section 3.3, as they may be modified from time to time by Apple in accordance with this Agreement.
+
+“Provisioning Profiles” means the files (including applicable entitlements or other identifiers) that are provided by Apple for use by You in connection with Your Application development and testing, and limited distribution of Your Applications for use on Registered Devices and/or on Authorized Test Units.
+
+“Push Application ID” means the unique identification number or other identifier that Apple assigns to an Application, Pass or Site in order to permit it to access and use the APN, or for use with MDM.
+
+“Push Notification” or “Safari Push Notification” means a notification, including any content or data therein, that You transmit to end users for delivery in Your Application, Your Pass, and/or in the case of macOS, to the macOS desktop of users of Your Site who have opted in to receive such messages through Safari on macOS, and/or that is delivered through the use of MDM.
+
+“Registered Devices” means Apple-branded hardware units owned or controlled by You, or owned by individuals who are affiliated with You, where such Products have been specifically registered with Apple under this Program.
+
+“Roster API” means the Documented API that enables the sharing of student, teacher, and staff Roster Data from a school, if the school’s IT administrator enables Your Application or Corresponding Product to receive that data.
+
+“Roster Data” means any user data or tokens obtained, collected through, relating to, or from the use of the Roster API, including any data that relates to an identified or identifiable individual or that is linked or linkable to them.
+
+“Safari Extensions” means one or more software extensions developed by You under this Agreement only for use with Safari in compliance with this Agreement.
+
+“Security Solution” means the proprietary Apple content protection system marketed as FairPlay, to be applied to Licensed Applications distributed on the App Store to administer Apple's standard usage rules for Licensed Applications, as such system and rules may be modified by Apple from time to time.
+
+“Sensitive Content Analysis Framework” means the Documented APIs that enable Applications to integrate with Communication Safety and/or Sensitive Content Warning, and determine on-device if images and videos that users send and receive in Your Application contain nudity.
+
+“ShazamKit APIs” means the Documented APIs that enable You to add audio-based recognition features or functionality to Your Application and Corresponding Products.
+
+“ShazamKit Content” means metadata, music, and/or graphical content provided by Apple and rendered through the ShazamKit APIs, including but not limited to MusicKit Content.
+
+“Sign in with Apple” means the Documented APIs and JavaScript libraries that allow You to log users into Your Application (and Corresponding Products) with their Apple Account or anonymized credentials.
+
+“Sign in with Apple at Work & School” means the Documented APIs and JavaScript libraries that allow You to log users into Your Application (and Corresponding Products) with their Managed Apple Account subject to the management of access by the user organization’s IT administrator.
+
+“Significant App Update Topic API” means the Documented API that enables Your Application distributed on the App Store to request consent from an end user's parent or guardian, to continue using Your Application when it has a significant update.
+
+“SiriKit” means the set of APIs that allow Your Application to access or provide SiriKit domains, intents, shortcuts, donations, and other related functionality, as set forth in the Documentation.
+
+“Site” means a website provided by You under Your own name, trademark or brand.
+
+“Single Sign-on Specification” means the Documentation provided by Apple hereunder for the Single Sign-On API, as updated from time to time.
+
+“Tap to Pay Data” or “TTP Data” means a Merchant's customer’s data package passed through the Apple Software and Tap to Pay APIs as part of a transaction (e.g., primary account number, transaction amount, etc.).
+
+“Tap to Pay APIs” or “TTP APIs” means the Documented APIs that enable Merchants to conduct transactions through the use of Your Application.
+
+“TelephonyMessagingKit APIs” means the Documented APIs that allow an Application to send and receive carrier-based messages via SMS, MMS, and RCS when it is set as the default carrier-based messaging app, and access the history of such messages sent and received in that Application.
+
+“Term” means the period described in Section 11.
+
+“TestFlight” means Apple’s beta testing service for pre-release Applications made available through Apple’s TestFlight Application.
+
+“TestFlight Application” means Apple’s application that enables the distribution of pre-release versions of Your Applications to a limited number of Your Authorized Developers and to a limited number of Beta Testers (as specified on the TestFlight developer website) through TestFlight.
+
+“Tracking Preference” means the Apple setting that enables an end user to set an ad tracking preference.
+
+“TV App API” means the API documented in the TV App Specification that enables You to provide Apple with TV App Data.
+
+“TV App Data” means the data described in the TV App Specification to be provided to Apple through the TV App API.
+
+“TV App Features” means functionality accessible via the TV App and/or tvOS, iOS, iPadOS, and/or macOS devices, which functionality provides the user the ability to view customized information and recommendations regarding content and to access such content through the user’s apps, and/or provides the user the ability to continue play of previously viewed content.
+
+“TV App Specification” means the Documentation provided by Apple hereunder for the TV App API, as updated from time to time.
+
+“tvOS” means the tvOS operating system software, including any successor versions thereof.
+
+“Updates” means bug fixes, updates, upgrades, modifications, enhancements, supplements, and new releases or versions of the Apple Software or Services, or to any part of the Apple Software or Services.
+
+“visionOS” means the visionOS operating system software, including any successor versions thereof.
+
+“Wallet” means Apple’s application that has the ability to store and display Passes for use on iOS, iPadOS, watchOS, or Safari on macOS.
+
+“WatchKit Extension” means an extension bundled as part of Your Application that accesses the WatchKit framework on iOS to run and display a WatchKit app on the watchOS.
+
+“watchOS” means the watchOS operating system software, including any successor versions thereof.
+
+“Weather Alerts” means any weather warnings, or other alerts provided via the WeatherKit APIs from time to time by meteorological agencies describing specific weather conditions in a geographic location. 
+
+“WeatherKit APIs” means the Documented APIs that enable You to add weather features or functionality to Your Applications or Corresponding Products. 
+
+“Web Software” means web-based versions of Your software applications that have the same title and substantially equivalent features and functionality as Your Licensed Application (e.g., feature parity).
+
+“Website Push ID” means the combination of an Apple Certificate and Push Application ID that is used by You to sign Your Site’s registration bundle and/or communicate with the APN.
+
+“Wi-Fi Aware Framework” means the Documented APIs that provide an Application with the ability to make Wi-Fi Aware connections between Wi-Fi Aware capable devices.
+
+“Wi-Fi Aware Information” means any content, data, or information provided through or transmitted via the Wi-Fi Aware Framework or Wi-Fi Aware protocol, including, but not limited to, identifying information such as identifiers exchanged between devices, security information used for pairing, authentication, or encryption, and other keys and device information.
+
+“Wi-Fi Infrastructure Framework” means the Documented APIs that provide an Application with the ability to share Wi-Fi Network Sharing Information from an Apple-branded device to a Wi-Fi capable accessory.
+
+“Wi-Fi Network Sharing Information” means any content, data, or information provided through or transmitted via the Wi-Fi Infrastructure Framework, including network and device information and identifiers (such as SSIDs, MAC addresses, and other identifiers exchanged between devices), and security information used for authentication, passwords, encryption keys, device information or any other information derived from it (e.g., decrypted, hashed, re-encrypted).
+
+“Xcode Cloud” or “Xcode Cloud Service” means Apple’s cloud hosted continuous integration and delivery service and related technologies.
+
+“Xcode Cloud Content” means the software, tests, scripts, data, information, text, graphics, videos, or other content that You post or make available when accessing or using the Xcode Cloud Service (including any software residing in source code repositories to which You provide log-in credentials), excluding any Apple materials licensed to You.
+
+“You” and “Your” means and refers to the person(s) or legal entity (whether the company, organization, educational institution, or governmental agency, instrumentality, or department) that has accepted this Agreement under its own developer account and that is using the Apple Software or otherwise exercising rights under this Agreement.
+
+Note:  For the sake of clarity, You may authorize contractors to develop Applications on Your behalf, but any such Applications must be owned by You, submitted under Your own developer account, and distributed as Applications only as expressly permitted herein.  You are responsible to Apple for Your contractors’ activities under Your account (e.g., adding them to Your team to perform development work for You) and their compliance with this Agreement.  Any actions undertaken by Your contractors arising out of this Agreement shall be deemed to have been taken by You, and You (in addition to Your contractors) shall be responsible to Apple for all such actions.
+
+2.         Internal Use License and Restrictions
+
+2.1       Permitted Uses and Restrictions; Program Services
+
+Subject to the terms and conditions of this Agreement, Apple hereby grants You during the Term, a limited, non-exclusive, personal, revocable, non-sublicensable and non-transferable license to:
+
+(a) Install a reasonable number of copies of the Apple Software provided to You under the Program on Apple-branded products owned or controlled by You, to be used internally by You or Your Authorized Developers for the sole purpose of developing or testing Covered Products designed to operate on the applicable Apple-branded products, except as otherwise expressly permitted in this Agreement;
+
+(b) Make and distribute a reasonable number of copies of the Documentation to Authorized Developers for their internal use only and for the sole purpose of developing or testing Covered Products, except as otherwise expressly permitted in this Agreement;
+
+(c) Install a Provisioning Profile on each of Your Authorized Test Units, up to the number of Authorized Test Units that You have registered and acquired licenses for, to be used internally by You or Your Authorized Developers for the sole purpose of developing and testing Your Applications, except as otherwise expressly permitted in this Agreement;
+
+(d) Install a Provisioning Profile on each of Your Registered Devices, up to the limited number of Registered Devices that You have registered and acquired licenses for, for the sole purpose of enabling the distribution and use of Your Applications on such Registered Devices; and
+
+(e) Incorporate the Apple Certificates issued to You pursuant to this Agreement for purposes of digitally signing Your Applications, Passes, Safari Extensions, Safari Push Notifications, and as otherwise expressly permitted by this Agreement.
+
+Apple reserves the right to set the limited number of Apple-branded products that each Licensee may register with Apple and obtain licenses for under this Program (a “Block of Registered Device Licenses”).  For the purposes of limited distribution on Registered Devices under Section 7.3 (Ad Hoc distribution), each company, organization, educational institution or affiliated group may only acquire one (1) Block of Registered Device Licenses per company, organization, educational institution or group, unless otherwise agreed in writing by Apple.  You agree not to knowingly acquire, or to cause others to acquire, more than one Block of Registered Device Licenses for the same company, organization, educational institution or group.
+
+Apple may provide access to services by or through the Program for You to use with Your developer account (e.g., device or app provisioning, managing teams or other account resources).  You agree to access such services only through the Program web portal (which is accessed through Apple’s developer website) or through Apple-branded products that are designed to work in conjunction with the Program (e.g., Xcode, App Store Connect, Swift Playgrounds) and only as authorized by Apple.  If You (or Your Authorized Developers) access Your developer account through these other Apple-branded products, You acknowledge and agree that this Agreement shall continue to apply to any use of Your developer account and to any features or functionality of the Program that are made available to You (or Your Authorized Developers) in this manner (e.g., Apple Certificates and Provisioning Profiles can be used only in the limited manner permitted herein, etc.).  You agree not to create or attempt to create a substitute or similar service through use of or access to the services provided by or through the Program.  If Apple provides power and performance metrics for Your Application, You agree that such metrics may be used solely for Your own internal use and may not be provided to any third party (except as set forth in Section 2.9).  Further, You may only access such services using the Apple Account associated with Your developer account or authentication credentials (e.g., keys, tokens, password) associated with Your developer account, and You are fully responsible for safeguarding Your Apple Account and authentication credentials from compromise and for using them only as authorized by Apple and in accordance with the terms of this Agreement, including but not limited to Section 2.8 and 5.  Except as otherwise expressly permitted herein, You agree not to share, sell, resell, rent, lease, lend, or otherwise provide access to Your developer account or any services provided therewith, in whole or in part, to anyone who is not an Authorized Developer on Your team, and You agree not to solicit or request Apple Developer Program members to provide You with their Apple Accounts, authentication credentials, and/or related account information and materials (e.g., Apple Certificates used for distribution or submission to the App Store or TestFlight).  You understand that each team member must have their own Apple Account or authentication credentials to access Your account, and You shall be fully responsible for all activity performed through or in connection with Your account.  To the extent that You own or control an Apple-branded computer running Apple’s macOS Server or Xcode Server (“Server”) and would like to use it for Your own development purposes in connection with the Program, You agree to use Your own Apple Account or other authentication credentials for such Server, and You shall be responsible for all actions performed by such Server.
+
+2.2       Authorized Test Units and Pre-Release Apple Software
+
+As long as an Authorized Test Unit contains any pre-release versions of the Apple Software or uses pre-release versions of Services, You agree to restrict access to such Authorized Test Unit to Your Authorized Developers and to not disclose, show, rent, lease, lend, sell or otherwise transfer such Authorized Test Unit to any third party.  You further agree to take reasonable precautions to safeguard, and to instruct Your Authorized Developers to safeguard, all Authorized Test Units from loss or theft.  Further, subject to the terms of this Agreement, You may deploy Your Applications to Your Authorized Developers for use on a limited number of Authorized Test Units for Your own internal testing and development purposes. 
+
+You acknowledge that by installing any pre-release Apple Software or using any pre-release Services on Your Authorized Test Units, these Units may be “locked” into testing mode and may not be capable of being restored to their original condition.  Any use of any pre-release Apple Software or pre-release Services are for evaluation and development purposes only, and You should not use any pre-release Apple Software or pre-release Services in a commercial operating environment or with important data.  You should back up any data prior to using the pre-release Apple Software or pre-release Services.  Apple shall not be responsible for any costs, expenses or other liabilities You may incur as a result of provisioning Your Authorized Test Units and Registered Devices, Your Covered Product development or the installation or use of this Apple Software or any pre-release Apple Services, including but not limited to any damage to any equipment, or any damage, loss, or corruption of any software, information or data.
+
+2.3       Confidential Nature of Pre-Release Apple Software and Services
+
+From time to time during the Term, Apple may provide You with pre-release versions of the Apple Software or Services that constitute Apple Confidential Information and are subject to the confidentiality obligations of this Agreement, except as otherwise set forth herein.  Such pre-release Apple Software and Services should not be relied upon to perform in the same manner as a final-release, commercial-grade product, nor used with data that is not sufficiently and regularly backed up, and may include features, functionality or APIs for software or services that are not yet available.  You acknowledge that Apple may not have publicly announced the availability of such pre-release Apple Software or Services, that Apple has not promised or guaranteed to You that such pre-release software or services will be announced or made available to anyone in the future, and that Apple has no express or implied obligation to You to announce or commercially introduce such software or services or any similar or compatible technology.  You expressly acknowledge and agree that any research or development that You perform with respect to pre-release versions of the Apple Software or Services is done entirely at Your own risk.
+
+2.4       Copies
+
+You agree to retain and reproduce in full the Apple copyright, disclaimers and other proprietary notices (as they appear in the Apple Software and Documentation provided) in all copies of the Apple Software and Documentation that You are permitted to make under this Agreement.
+
+2.5       Ownership
+
+Apple retains all rights, title, and interest in and to the Apple Software, Services, and any Updates it may make available to You under this Agreement.  You agree to cooperate with Apple to maintain Apple's ownership of the Apple Software and Services, and, to the extent that You become aware of any claims relating to the Apple Software or Services, You agree to use reasonable efforts to promptly provide notice of any such claims to Apple.  The parties acknowledge that this Agreement does not give Apple any ownership interest in Your Covered Products or Corresponding Products.
+
+2.6       No Other Permitted Uses
+
+Except as otherwise set forth in this Agreement, You agree not to rent, lease, lend, upload to or host on any website or server, sell, redistribute, or sublicense the Apple Software, Apple Certificates, or any Services, in whole or in part, or to enable others to do so.  You may not use the Apple Software, Apple Certificates, or any Services provided hereunder for any purpose not expressly permitted by this Agreement, including any applicable Attachments and Schedules.  You agree not to install, use or run the Apple SDKs on any non-Apple-branded computer, and not to install, use or run iOS, iPadOS, macOS, tvOS, visionOS, watchOS, and Provisioning Profiles on or in connection with devices other than Apple-branded products, or to enable others to do so.  You may not and You agree not to, or to enable others to, copy (except as expressly permitted under this Agreement), decompile, reverse engineer, disassemble, attempt to derive the source code of, modify, decrypt, or create derivative works of the Apple Software, Apple Certificates or any Services provided by the Apple Software or otherwise provided hereunder, or any part thereof (except as and only to the extent any foregoing restriction is prohibited by applicable law or to the extent as may be permitted by licensing terms governing use of open-sourced components or sample code included with the Apple Software).  You agree not to exploit any Apple Software, Apple Certificates, or Services provided hereunder in any unauthorized way whatsoever, including but not limited to, by trespass or burdening network capacity, or by harvesting or misusing data provided by such Apple Software, Apple Certificates, or Services.  Any attempt to do so is a violation of the rights of Apple and its licensors of the Apple Software or Services.  If You breach any of the foregoing restrictions, You may be subject to prosecution and damages.  All licenses not expressly granted in this Agreement are reserved and no other licenses, immunity or rights, express or implied are granted by Apple, by implication, estoppel, or otherwise.  This Agreement does not grant You any rights to use any trademarks, logos or service marks belonging to Apple, including but not limited to the iPhone or iPod word marks.  If You make reference to any Apple products or technology or use Apple’s trademarks, You agree to comply with the published guidelines at https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html, as they may be modified by Apple from time to time.
+
+2.7       FPS SDK and FPS Deployment Package
+
+You may use the FPS SDK to develop and test a server-side implementation of FPS, solely for use with video streamed by You (or on Your behalf) through Your Applications, or video downloaded for viewing through Your Applications, on iOS, iPadOS, and/or tvOS, through Safari on macOS, or as otherwise approved by Apple in writing (collectively, “Authorized FPS Applications”).  You understand that You will need to request the FPS Deployment Package on the Program web portal prior to any production or commercial use of FPS.  As part of such request, You will need to submit information about Your requested use of FPS.  Apple will review Your request and reserves the right to not provide You with the FPS Deployment Package at its sole discretion, in which case You will not be able to deploy FPS.  Any development and testing You perform with the FPS SDK is at Your own risk and expense, and Apple will not be liable to You for such use or for declining Your request to use FPS in a production or commercial environment.
+
+If Apple provides You with the FPS Deployment Package, You agree to use it solely as approved by Apple and only in connection with video content streamed by You (or on Your behalf) to Authorized FPS Applications or downloaded for viewing through Your Authorized FPS Applications.  Except as permitted in Section 2.9 (Third-Party Service Providers), You will not provide the FPS Deployment Package to any third party or sublicense, sell, resell, lease, disclose, or re-distribute the FPS Deployment Package or FPS SDK to any third party (or any implementation thereof) without Apple’s prior written consent. 
+
+You acknowledge and agree that the FPS Deployment Package (including the set of FPS production keys) is Apple Confidential Information as set forth in Section 9 (Confidentiality).  Further, such FPS keys are unique to Your company or organization, and You are solely responsible for storing and protecting them.  You may use such FPS keys solely for the purpose of delivering and protecting Your content key that is used to decrypt video content streamed by You to Authorized FPS Applications or downloaded for viewing through Your Authorized FPS Applications.  Apple will have no liability or responsibility for unauthorized access to or use of any FPS key or any content streamed or otherwise delivered under this Agreement in connection with FPS.  In the event that Your FPS key is disclosed, discovered, misappropriated or lost, You may request that Apple revoke it by emailing product-security@apple.com, and You understand that Apple will have no obligation to provide a replacement key.  Apple reserves the right to revoke Your FPS key at any time if requested by You, in the event of a breach of this Agreement by You, if otherwise deemed prudent or reasonable by Apple, or upon expiration or termination of this Agreement for any reason.
+
+You acknowledge and agree that Apple reserves the right to revoke or otherwise remove Your access to and use of FPS (or any part thereof) at any time in its sole discretion.  Further, Apple will have no obligation to provide any modified, updated or successor version of the FPS Deployment Package or the FPS SDK to You and will have no obligation to maintain compatibility with any prior version.  If Apple makes new versions of the FPS Deployment Package or FPS SDK available to You, then You agree to update to them within a reasonable time period if requested to do so by Apple. 
+
+2.8       Use of Apple Services
+
+Apple may provide access to Apple Services that Your Covered Products or Your Corresponding Products may call through APIs in the Apple Software and/or that Apple makes available to You through other mechanisms, e.g., through the use of keys that Apple may make accessible to You under the Program.  You agree to access such Apple Services only through the mechanisms provided by Apple for such access and only for use on Apple-branded products.  Except as permitted in Section 2.9 (Third-Party Service Providers) or as otherwise set forth herein, You agree not to share access to mechanisms provided to You by Apple for the use of the Services with any third party.  Further, You agree not to create or attempt to create a substitute or similar service through use of or access to the Apple Services.
+
+You agree to access and use such Services only as necessary for providing services and functionality for Your Covered Products or Your Corresponding Products that are eligible to use such Services and only as permitted by Apple in writing, including in the Documentation.  You may not use the Apple Services in any manner that is inconsistent with the terms of this Agreement or that infringes any IP Rights of a third party or Apple, or that violates any applicable laws or regulations.  You agree that the Apple Services contain proprietary content, information and material owned by Apple and its licensors, and protected by applicable intellectual property and other laws.  You may not use such proprietary content, information or materials in any way whatsoever, except for the permitted uses of the Apple Services under this Agreement, or as otherwise agreed by Apple in writing.
+
+You understand there may be storage capacity, transmission, and/or transactional limits for the Apple Services both for You as a developer and for Your end users.  If You reach or Your end user reaches such limits, then You or Your end user may be unable to use the Apple Services or may be unable to access or retrieve data from such Services through Your Covered Products, Your Corresponding Products or through the applicable end-user accounts.  You agree not to charge any fees to end users solely for access to or use of the Apple Services through Your Covered Products or Your Corresponding Products, or for any content, data or information provided therein, and You agree not to sell access to the Apple Services in any way.  You agree not to fraudulently create any end-user accounts or induce any end user to violate the terms of their applicable end-user terms or service agreement with Apple or to violate any Apple usage policies for such end-user services.  Except as expressly set forth herein, You agree not to interfere with an end user’s ability to access or use any such services. 
+
+Apple reserves the right to change, suspend, deprecate, deny, limit, or disable access to the Apple Services, or any part thereof, at any time without notice (including but not limited to revoking entitlements or changing any APIs in the Apple Software that enable access to the Services or not providing You with an entitlement).  In no event will Apple be liable for the removal of or disabling of access to any of the foregoing.  Apple may also impose limits and restrictions on the use of or access to the Apple Services, may remove the Apple Services for indefinite time periods, may revoke Your access to the Apple Services, or may cancel the Apple Services (or any part thereof) at any time without notice or liability to You and in its sole discretion.
+
+Apple does not guarantee the availability, accuracy, completeness, reliability, or timeliness of any data or information displayed by any Apple Services.  To the extent You choose to use the Apple Services with Your Covered Products or Corresponding Products, You are responsible for Your reliance on any such data or information.  You are responsible for Your use of the Apple Software and Apple Services, and if You use such Services, then it is Your responsibility to maintain appropriate alternate backup of all Your content, information and data, including but not limited to any content that You may provide to Apple for hosting as part of Your use of the Services.  You understand and agree that You may not be able to access certain Apple Services upon expiration or termination of this Agreement and that Apple reserves the right to suspend access to or delete content, data or information that You or Your Covered Product or Corresponding Product have stored through Your use of such Services provided hereunder.  You should review the Documentation and policy notices posted by Apple prior to using any Apple Services. 
+
+Apple Services may not be available in all languages or in all countries or regions, and Apple makes no representation that any such Services would be appropriate, accurate or available for use in any particular location or product.  To the extent You choose to use the Apple Services with Your Applications, You do so at Your own initiative and are responsible for compliance with any applicable laws.  Apple reserves the right to charge fees for Your use of the Apple Services.  Apple will inform You of any Apple Service fees or fee changes by email and information about such fees will be posted in the Program web portal, App Store Connect, or the CloudKit console.  Apple Service availability and pricing are subject to change.  Further, Apple Services may not be made available for all Covered Products or Corresponding Products and may not be made available to all developers.  Apple reserves the right to not provide (or to cease providing) the Apple Services to any or all developers at any time in its sole discretion.
+
+2.9       Third-Party Service Providers
+
+Unless otherwise prohibited by Apple in the Documentation or this Agreement, You are permitted to employ or retain a third party (“Service Provider”) to assist You in using the Apple Software and Services provided pursuant to this Agreement, including, but not limited to, engaging any such Service Provider to maintain and administer Your Applications’ servers on Your behalf, provided that any such Service Provider’s use of the Apple Software and Services or any materials associated therewith is done solely on Your behalf and only in accordance with these terms.  Notwithstanding the foregoing, You may not use a Service Provider to submit an Application to the App Store or use TestFlight on Your behalf.  You agree to have a binding written agreement with Your Service Provider with terms at least as restrictive and protective of Apple as those set forth herein.  Any actions undertaken by any such Service Provider in relation to Your Applications or use of the Apple Software or Apple Services and/or arising out of this Agreement shall be deemed to have been taken by You, and You (in addition to the Service Provider) shall be responsible to Apple for all such actions (or any inactions).  In the event of any actions or inactions by the Service Provider that would constitute a violation of this Agreement or otherwise cause any harm, Apple reserves the right to require You to cease using such Service Provider.
+
+2.10      Updates; No Support or Maintenance
+
+Apple may extend, enhance, or otherwise modify the Apple Software or Services (or any part thereof) provided hereunder at any time without notice, but Apple shall not be obligated to provide You with any Updates to the Apple Software or Services.  If Updates are made available by Apple, the terms of this Agreement will govern such Updates, unless the Update is accompanied by a separate license in which case the terms of that license will govern.  You understand that such modifications may require You to change or update Your Covered Products or Your Corresponding Products.  Further, You acknowledge and agree that such modifications may affect Your ability to use, access, or interact with the Apple Software and Services.  Apple is not obligated to provide any maintenance, technical or other support for the Apple Software or Services.  You acknowledge that Apple has no express or implied obligation to announce or make available any Updates to the Apple Software or to any Services to anyone in the future.  Should an Update be made available, it may have APIs, features, services or functionality that are different from those found in the Apple Software licensed hereunder or the Services provided hereunder.
